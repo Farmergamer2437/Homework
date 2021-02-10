@@ -1,3 +1,3 @@
 <body>
-<src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?&amp;enablejsapi=1&amp;autoplay=1&amp;mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" height="553"></iframe>
+<iframe width="560" height="314" src="//www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen="allowfullscreen"></iframe>
 </body>
